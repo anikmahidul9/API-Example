@@ -1,0 +1,10 @@
+#country{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.country{
+    border: 2px solid greenyellow;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
